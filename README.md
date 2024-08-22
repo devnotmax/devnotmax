@@ -53,6 +53,8 @@
   </a>
 </div>
 
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=devnotmax)](https://github.com/ignacio-cuadra/github-readme-codewars)
+
 ###
 
 <img src="https://raw.githubusercontent.com/devnotmax/devnotmax/output/snake.svg" alt="Snake animation" />
