@@ -68,6 +68,19 @@
 
 ###
 
-### Support Me
+###
 
-<a href="https://www.buymeacoffee.com/developmax"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<h4 align="left">Contacto</h4>
+
+<div align="left">
+  <a href="mailto:tu-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/machifrias/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+
