@@ -46,18 +46,22 @@
 
 ###
 
-<h4 align="left">📫 Contacto</h4>
 
 <div align="right">
- - Correo electrónico: [tu-email@gmail.com](mailto:tu-email@gmail.com)
-  <a href="mailto:tu-email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25" alt="gmail logo" />
-  </a>
+ <h4 align="left">📫 Contacto</h4>
 
-- LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/tu-perfil)
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25" alt="linkedin logo" />
+<div align="left">
+  <a href="mailto:tu-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
+    <span> tu-email@gmail.com</span>
   </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/machifrias/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
+    <span> linkedin.com/in/machifrias</span>
+  </a>
+</div>
+
 </div>
 
 ###
