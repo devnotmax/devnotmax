@@ -44,14 +44,20 @@
 
 <br clear="both">
 
+###
+
+<h4 align="left">Contacto</h4>
+
 <div align="left">
+  <a href="mailto:develop.maxsj@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/machifrias/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/invite/QNdJ84BY" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
 </div>
+
+###
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=devnotmax)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
